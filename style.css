@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+}
+
+.square{
+    margin: 0;
+    padding: 0;
+    background-color: lightslategray;
+    border : 1px solid gray;
+    width: 30px;
+    height: 30px;
+}
